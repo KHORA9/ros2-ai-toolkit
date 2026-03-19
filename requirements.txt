@@ -1,0 +1,4 @@
+rclpy>=3.3.0
+ros2-ai-toolkit @ git+https://github.com/hanatra/ros2-ai-toolkit@main
+requests>=2.31.0
+python-dotenv>=1.0.0
